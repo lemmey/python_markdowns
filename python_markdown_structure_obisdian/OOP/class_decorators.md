@@ -1,4 +1,0 @@
-___
-[[OOP]]
-[[encapsulation]]
-___
